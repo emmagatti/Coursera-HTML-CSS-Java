@@ -1,2 +1,2 @@
 # Coursera-HTML-CSS-Java
-# permalink: /index.html
+# permalink: /page/index.html
